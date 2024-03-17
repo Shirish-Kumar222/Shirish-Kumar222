@@ -7,6 +7,7 @@ Hello, I'm Shirish Kumar (GitHub: [@Shirish-Kumar222](https://github.com/Shirish
 - SQL
 - Machine Learning
 - Tableau
+
 🚀 I'm eager to dive into exciting projects and gain hands-on experience in the field of data science. My goal is to apply my skills to analyze data, build predictive models, and create compelling data visualizations.
 
 ## Projects 📊
